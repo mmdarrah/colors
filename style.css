@@ -287,7 +287,7 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-    display: block;
+    
     
   }
 
@@ -317,10 +317,10 @@ h3 {
 
   
 
-  #flex22{
+  /* #flex22{
     display: flex;
     padding-top: 100px;
-  }
+  } */
 
   .h3colorvalue {
     padding-bottom: 80px;
