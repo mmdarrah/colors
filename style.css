@@ -318,10 +318,10 @@ h3 {
 
   
 
-  /* #flex22{
-    display: flex;
+  #flex22{
+    
     padding-top: 100px;
-  } */
+  }
 
   .h3colorvalue {
     padding-bottom: 80px;
