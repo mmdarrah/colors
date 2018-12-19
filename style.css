@@ -283,6 +283,14 @@ h3 {
     padding-top: 10px;
     display: block;
   }
+  #image66 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 70px;
+    padding-top: 70px;
+    display: block;
+  }
 
   .block1 {
     float: left;
@@ -307,6 +315,14 @@ h3 {
     padding-top: 60px;
     padding-bottom: 70px;
   }
+
+  
+
+  #flex22{
+    display: flex;
+    padding-top: 100px;
+  }
+
   .h3colorvalue {
     padding-bottom: 80px;
   }
