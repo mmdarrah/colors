@@ -284,9 +284,10 @@ h3 {
     display: block;
   }
   #image66 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
     
     
   }
