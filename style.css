@@ -93,13 +93,17 @@ label {
 #toggle {
   display: none;
 }
-#dessa,
+
 ul,
 td,
 tr,
 p,
 h2,
 h3 {
+  color: #004466;
+}
+
+#dessa{
   color: #004466;
 }
 
